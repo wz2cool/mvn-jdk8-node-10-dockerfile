@@ -1,0 +1,1 @@
+# mvn-jdk8-node-10-dockerfile
